@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+    color: lightsalmon;
+}
+h2{
+    color: lightsalmon;
+}
+p{
+    color: dimgray;
+}
